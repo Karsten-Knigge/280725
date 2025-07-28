@@ -1,0 +1,4 @@
+Es war einmal ein Git Repository.
+Es lebte auf einem Server.
+Viele Entwickler arbeiteten daran.
+Sie waren alle glücklich.
