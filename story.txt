@@ -1,4 +1,5 @@
 Es war einmal ein Git Repository.
-Es lebte auf einem Server.
+Es wohnte auf einem Server.
 Viele Entwickler arbeiteten daran.
-Sie waren alle glücklich.
+Sie waren alle sehr glücklich.
+Und sie committeten für immer.
